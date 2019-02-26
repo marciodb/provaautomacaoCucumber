@@ -44,8 +44,6 @@ Caso de teste: realizar uma compra com sucesso.
 11.          Confirme a compra e valide se foi finalizada com sucesso.
 
 
-Obrigado. 
-Contato: jonatasprog@gmail.com
-jonatasd@dbserver.com.br
+
 
 
